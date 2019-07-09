@@ -1,0 +1,12 @@
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\bin\Debug\BarcodeMaker.exe.config
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\bin\Debug\BarcodeMaker.exe
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\bin\Debug\BarcodeMaker.pdb
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\obj\Debug\BarcodeMaker.csprojAssemblyReference.cache
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\obj\Debug\BarcodeMaker.Form1.resources
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\obj\Debug\BarcodeMaker.Properties.Resources.resources
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\obj\Debug\BarcodeMaker.csproj.GenerateResource.cache
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\obj\Debug\BarcodeMaker.csproj.CoreCompileInputs.cache
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\obj\Debug\BarcodeMaker.csproj.CopyComplete
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\obj\Debug\BarcodeMaker.exe
+C:\Users\EGOLAST\Desktop\Jiyan\BarcodeMaker\BarcodeMaker\BarcodeMaker\obj\Debug\BarcodeMaker.pdb
